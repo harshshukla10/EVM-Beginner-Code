@@ -69,8 +69,6 @@ The provided code should function as intended, however in case you run into any 
 HARSH SHUKLA
 hs.jpg1034@gmail.com
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
 ## License
